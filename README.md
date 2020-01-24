@@ -16,7 +16,7 @@ DBMS is used to inuput data into a database,prevent the conflicting of data and 
 
 ![github image](https://d3n817fwly711g.cloudfront.net/uploads/2012/06/relational-database-model1.png)
 
-Above images image taken from [creatly.com](https://creately.com/blog/diagrams/database-modeling-basics/)
+Above images taken from [creatly.com](https://creately.com/blog/diagrams/database-modeling-basics/)
 
 ### Few Terms in Relationship Datamodel
 
