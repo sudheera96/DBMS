@@ -27,6 +27,14 @@ Above images taken from [creatly.com](https://creately.com/blog/diagrams/databas
 
 Image taken from  [whatisdbms.com](https://whatisdbms.com/11-keys-in-database-management-system/)
 
+### Other terms 
+
+* Null
+* Identifier
+* Primary Key
+
+Empty value in data base is null.Also in every data base there will be presence of important entity where other entities depends on this entity,such type of entities know as the identifiers also known as primary keys.
+
 
 ### Softwares used in DBMS
 
@@ -34,6 +42,13 @@ Image taken from  [whatisdbms.com](https://whatisdbms.com/11-keys-in-database-ma
 2. Excel
 3. Oracel
 
+### ER Diagram
+
+To represent relationship between the data we use ER diagrams. Types of boxes and lines used in ER diagram.
+1. Square 
+2. Rhombous
+3. Arrows
+4. Dotted lines
 #### References
 
 * [technopedia.com](https://www.techopedia.com/definition/24361/database-management-systems-dbms)
